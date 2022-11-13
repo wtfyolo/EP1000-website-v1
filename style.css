@@ -101,6 +101,17 @@ th{
     transform: translateX(-700px)translateY(-950px);
 }
 
+.topic_block{
+    position: relative;
+    left :70% ;
+}
+.topic_block h2{
+    color: magenta;
+    font-family: helvetica;
+}
+.topic_block h1{
+    font-weight: 1800;
+}
 /*.vt{
     transform: translateX(800px)translateY(-2330px);
 } 
